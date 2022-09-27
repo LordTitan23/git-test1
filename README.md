@@ -8,7 +8,7 @@ this is my take on mastering git
 
 Enclosed blender projects
 
-'spaceship.blend'
+`spaceship.blend`
 
 ## Social media handles
 
